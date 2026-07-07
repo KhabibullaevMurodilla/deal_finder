@@ -1,0 +1,36 @@
+name: Daily Deal Finder
+
+on:
+  schedule:
+    # Runs every day at 06:00 UTC. Adjust as you like -
+    # cron format is: minute hour day month weekday
+    - cron: '0 6 * * *'
+  workflow_dispatch: {}   # lets you also trigger it manually from GitHub's UI
+
+jobs:
+  run-deal-finder:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests pandas scikit-learn
+
+      - name: Run deal finder
+        env:
+          TRAVELPAYOUTS_API_TOKEN: ${{ secrets.TRAVELPAYOUTS_API_TOKEN }}
+        run: python deal_finder.py
+
+      - name: Commit updated results back to the repo
+        run: |
+          git config --global user.name "deal-finder-bot"
+          git config --global user.email "actions@github.com"
+          git add price_history.csv todays_deals.json telegram_post.txt
+          git commit -m "Update deal data $(date -u +'%Y-%m-%d')" || echo "Nothing to commit"
+          git push
