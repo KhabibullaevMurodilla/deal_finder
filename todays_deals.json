@@ -1,0 +1,74 @@
+[
+  {
+    "route_label":"Samarkand -> Moscow",
+    "latest_price":76,
+    "average_price":76.0,
+    "pct_below_average":0.0,
+    "is_deal":false,
+    "detection_method":"simple_threshold_not_enough_history",
+    "data_points_so_far":1
+  },
+  {
+    "route_label":"Tashkent -> Bangkok",
+    "latest_price":209,
+    "average_price":209.0,
+    "pct_below_average":0.0,
+    "is_deal":false,
+    "detection_method":"simple_threshold_not_enough_history",
+    "data_points_so_far":1
+  },
+  {
+    "route_label":"Tashkent -> Barcelona",
+    "latest_price":232,
+    "average_price":232.0,
+    "pct_below_average":0.0,
+    "is_deal":false,
+    "detection_method":"simple_threshold_not_enough_history",
+    "data_points_so_far":1
+  },
+  {
+    "route_label":"Tashkent -> Dubai",
+    "latest_price":140,
+    "average_price":140.0,
+    "pct_below_average":0.0,
+    "is_deal":false,
+    "detection_method":"simple_threshold_not_enough_history",
+    "data_points_so_far":1
+  },
+  {
+    "route_label":"Tashkent -> Istanbul",
+    "latest_price":163,
+    "average_price":163.0,
+    "pct_below_average":0.0,
+    "is_deal":false,
+    "detection_method":"simple_threshold_not_enough_history",
+    "data_points_so_far":1
+  },
+  {
+    "route_label":"Tashkent -> London",
+    "latest_price":221,
+    "average_price":221.0,
+    "pct_below_average":0.0,
+    "is_deal":false,
+    "detection_method":"simple_threshold_not_enough_history",
+    "data_points_so_far":1
+  },
+  {
+    "route_label":"Tashkent -> Seoul",
+    "latest_price":234,
+    "average_price":234.0,
+    "pct_below_average":0.0,
+    "is_deal":false,
+    "detection_method":"simple_threshold_not_enough_history",
+    "data_points_so_far":1
+  },
+  {
+    "route_label":"Tashkent -> Venice",
+    "latest_price":200,
+    "average_price":200.0,
+    "pct_below_average":0.0,
+    "is_deal":false,
+    "detection_method":"simple_threshold_not_enough_history",
+    "data_points_so_far":1
+  }
+]
