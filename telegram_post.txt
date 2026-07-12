@@ -1,15 +1,19 @@
 FLEXIBLE DEALS - TODAY'S PICKS
 
+From our own price tracking:
+  Tashkent -> Istanbul: $160 (1.6% below its usual average)
+  Tashkent -> Seoul: $214 (0.2% below its usual average)
+
 Flagged by Travelpayouts as abnormally low right now:
   Samarkand -> Fergana: $62 (Uzbekistan Airways)
-  Samarkand -> Dubai: $197 (Centrum Air)
-  Samarkand -> Urgench: $161 (Centrum Air)
-  Samarkand -> Baku: $187 (Azerbaijan Airlines)
-  Samarkand -> Karshi: $128 (Silk Avia)
-  Samarkand -> Guangzhou: $289 (Centrum Air)
-  Samarkand -> Almaty: $133 (FlyArystan)
+  Samarkand -> Andijan: $72 (Uzbekistan Airways)
+  Samarkand -> Baku: $219 (Azerbaijan Airlines)
+  Samarkand -> Batumi: $276 (Centrum Air)
+  Samarkand -> Dubai: $335 (Flydubai)
   Samarkand -> Namangan: $49 (Uzbekistan Airways)
-  Samarkand -> Izmir: $110 (SunExpress)
-  Tashkent -> Namangan: $25 (Uzbekistan Airways)
+  Samarkand -> Astana: $134 (Vietjet Qazaqstan)
+  Samarkand -> Almaty: $134 (FlyArystan)
+  Samarkand -> Chisinau: $325 (Fly One)
+  Tashkent -> Lahore: $156 (Centrum Air)
 
 Book via: https://aviasales.tpm.lv/3zOHKKXL
