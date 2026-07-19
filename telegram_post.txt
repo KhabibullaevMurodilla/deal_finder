@@ -1,18 +1,19 @@
 FLEXIBLE DEALS - TODAY'S PICKS
 
 From our own price tracking:
-  Tashkent -> Istanbul: $160 (1.1% below its usual average)
+  Tashkent -> Barcelona: $211 (8.9% below its usual average)
+  Tashkent -> Istanbul: $154 (4.5% below its usual average)
 
 Flagged by Travelpayouts as abnormally low right now:
-  Samarkand -> Tashkent: $38 (Uzbekistan Airways)
-  Samarkand -> Termez: $153 (Silk Avia)
+  Samarkand -> Tashkent: $33 (Centrum Air)
+  Samarkand -> Urgench: $166 (Centrum Air)
+  Samarkand -> Hannover: $366 (Qanot Sharq)
   Samarkand -> Baku: $154 (Azerbaijan Airlines)
-  Samarkand -> Andijan: $80 (Uzbekistan Airways)
-  Samarkand -> Kuala Lumpur: $387 (AirAsia X)
-  Samarkand -> Almaty: $121 (FlyArystan)
+  Samarkand -> Dushanbe: $261 (Vietjet Qazaqstan)
   Samarkand -> Namangan: $62 (Uzbekistan Airways)
-  Samarkand -> Chisinau: $379 (Azerbaijan Airlines)
-  Samarkand -> Ankara: $234 (Ajet)
-  Tashkent -> Namangan: $25 (Uzbekistan Airways)
+  Samarkand -> Madrid: $297 (Ajet)
+  Samarkand -> Bukhara: $109 (Silk Avia)
+  Samarkand -> Andijan: $62 (Uzbekistan Airways)
+  Tashkent -> Samarkand: $33 (Centrum Air)
 
 Book via: https://aviasales.tpm.lv/3zOHKKXL
