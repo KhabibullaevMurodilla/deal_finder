@@ -4,15 +4,15 @@ From our own price tracking:
   Samarkand -> Moscow: $75 (1.1% below its usual average)
 
 Flagged by Travelpayouts as abnormally low right now:
-  Samarkand -> Baku: $154 (Azerbaijan Airlines)
-  Samarkand -> Sharjah: $250 (Air Arabia)
-  Samarkand -> Termez: $140 (Silk Avia)
-  Samarkand -> Bukhara: $126 (Silk Avia)
-  Samarkand -> Almaty: $83 (FlyArystan)
-  Samarkand -> Dushanbe: $269 (Vietjet Qazaqstan)
-  Samarkand -> Izmir: $110 (SunExpress)
-  Samarkand -> Beijing: $443 (S7 Airlines)
-  Samarkand -> New Delhi: $213 (Uzbekistan Airways)
-  Tashkent -> Lahore: $161 (Centrum Air)
+  Samarkand -> Andijan: $112 (Centrum Air)
+  Samarkand -> Qarshi: $117 (Silk Avia)
+  Samarkand -> Abu Dhabi: $340 (Air Arabia Abu Dhabi)
+  Samarkand -> Bishkek: $130 (Centrum Air)
+  Samarkand -> Baku: $153 (Azerbaijan Airlines)
+  Samarkand -> Tamchy: $179 (Centrum Air)
+  Samarkand -> Dushanbe: $268 (Vietjet Qazaqstan)
+  Samarkand -> New Delhi: $190 (Uzbekistan Airways)
+  Samarkand -> Dubai: $296 (Flydubai)
+  Tashkent -> Lahore: $108 (Centrum Air)
 
 Book via: https://aviasales.tpm.lv/3zOHKKXL
