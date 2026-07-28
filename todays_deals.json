@@ -3,183 +3,183 @@
     {
       "route_label": "Tashkent -> Barcelona",
       "latest_price": 208,
-      "average_price": 222.86,
-      "pct_below_average": 6.7,
+      "average_price": 222.22,
+      "pct_below_average": 6.4,
       "is_deal": false,
       "detection_method": "isolation_forest",
-      "data_points_so_far": 22
+      "data_points_so_far": 23
     },
     {
       "route_label": "Tashkent -> London",
-      "latest_price": 195,
-      "average_price": 202.14,
-      "pct_below_average": 3.5,
+      "latest_price": 192,
+      "average_price": 201.7,
+      "pct_below_average": 4.8,
       "is_deal": false,
       "detection_method": "isolation_forest",
-      "data_points_so_far": 22
+      "data_points_so_far": 23
     },
     {
       "route_label": "Tashkent -> Dubai",
-      "latest_price": 133,
-      "average_price": 135.48,
-      "pct_below_average": 1.8,
+      "latest_price": 132,
+      "average_price": 135.32,
+      "pct_below_average": 2.5,
       "is_deal": false,
       "detection_method": "isolation_forest",
-      "data_points_so_far": 21
+      "data_points_so_far": 22
     },
     {
       "route_label": "Samarkand -> Moscow",
       "latest_price": 75,
-      "average_price": 75.82,
-      "pct_below_average": 1.1,
+      "average_price": 75.78,
+      "pct_below_average": 1.0,
       "is_deal": true,
       "detection_method": "isolation_forest",
-      "data_points_so_far": 22
+      "data_points_so_far": 23
+    },
+    {
+      "route_label": "Tashkent -> Bangkok",
+      "latest_price": 216,
+      "average_price": 215.48,
+      "pct_below_average": -0.2,
+      "is_deal": false,
+      "detection_method": "isolation_forest",
+      "data_points_so_far": 23
     },
     {
       "route_label": "Tashkent -> Istanbul",
       "latest_price": 162,
-      "average_price": 161.64,
+      "average_price": 161.65,
       "pct_below_average": -0.2,
       "is_deal": false,
       "detection_method": "isolation_forest",
-      "data_points_so_far": 22
-    },
-    {
-      "route_label": "Tashkent -> Bangkok",
-      "latest_price": 219,
-      "average_price": 215.45,
-      "pct_below_average": -1.6,
-      "is_deal": false,
-      "detection_method": "isolation_forest",
-      "data_points_so_far": 22
-    },
-    {
-      "route_label": "Tashkent -> Seoul",
-      "latest_price": 234,
-      "average_price": 226.18,
-      "pct_below_average": -3.5,
-      "is_deal": false,
-      "detection_method": "isolation_forest",
-      "data_points_so_far": 22
+      "data_points_so_far": 23
     },
     {
       "route_label": "Tashkent -> Venice",
-      "latest_price": 211,
-      "average_price": 202.32,
-      "pct_below_average": -4.3,
+      "latest_price": 206,
+      "average_price": 202.48,
+      "pct_below_average": -1.7,
       "is_deal": false,
       "detection_method": "isolation_forest",
-      "data_points_so_far": 22
+      "data_points_so_far": 23
+    },
+    {
+      "route_label": "Tashkent -> Seoul",
+      "latest_price": 233,
+      "average_price": 226.48,
+      "pct_below_average": -2.9,
+      "is_deal": false,
+      "detection_method": "isolation_forest",
+      "data_points_so_far": 23
     }
   ],
   "special_offers": [
     {
-      "route_label": "Samarkand -> Andijan",
-      "price": 112,
-      "title": "Flight deals from Samarkand to Andijan",
-      "airline": "Centrum Air"
+      "route_label": "Samarkand -> Medina",
+      "price": 266,
+      "title": "Flight deals from Samarkand to Medina",
+      "airline": "Uzbekistan Airways"
     },
     {
-      "route_label": "Samarkand -> Qarshi",
-      "price": 117,
-      "title": "Flight deals from Samarkand to Qarshi",
-      "airline": "Silk Avia"
-    },
-    {
-      "route_label": "Samarkand -> Abu Dhabi",
-      "price": 340,
-      "title": "Flight deals from Samarkand to Abu Dhabi",
-      "airline": "Air Arabia Abu Dhabi"
-    },
-    {
-      "route_label": "Samarkand -> Bishkek",
-      "price": 130,
-      "title": "Flight deals from Samarkand to Bishkek",
-      "airline": "Centrum Air"
+      "route_label": "Samarkand -> Almaty",
+      "price": 129,
+      "title": "Flight deals from Samarkand to Almaty",
+      "airline": "FlyArystan"
     },
     {
       "route_label": "Samarkand -> Baku",
-      "price": 153,
+      "price": 238,
       "title": "Flight deals from Samarkand to Baku",
       "airline": "Azerbaijan Airlines"
     },
     {
-      "route_label": "Samarkand -> Tamchy",
-      "price": 179,
-      "title": "Flight deals from Samarkand to Tamchy",
-      "airline": "Centrum Air"
-    },
-    {
       "route_label": "Samarkand -> Dushanbe",
-      "price": 268,
+      "price": 235,
       "title": "Flight deals from Samarkand to Dushanbe",
-      "airline": "Vietjet Qazaqstan"
+      "airline": "Air Astana"
     },
     {
-      "route_label": "Samarkand -> New Delhi",
-      "price": 190,
-      "title": "Flight deals from Samarkand to New Delhi",
+      "route_label": "Samarkand -> Termez",
+      "price": 202,
+      "title": "Flight deals from Samarkand to Termez",
+      "airline": "Silk Avia"
+    },
+    {
+      "route_label": "Samarkand -> London",
+      "price": 274,
+      "title": "Flight deals from Samarkand to London",
       "airline": "Uzbekistan Airways"
     },
     {
-      "route_label": "Samarkand -> Dubai",
-      "price": 296,
-      "title": "Flight deals from Samarkand to Dubai",
-      "airline": "Flydubai"
+      "route_label": "Samarkand -> Bukhara",
+      "price": 129,
+      "title": "Flight deals from Samarkand to Bukhara",
+      "airline": "Silk Avia"
+    },
+    {
+      "route_label": "Samarkand -> Madrid",
+      "price": 291,
+      "title": "Flight deals from Samarkand to Madrid",
+      "airline": "SunExpress"
+    },
+    {
+      "route_label": "Samarkand -> Bishkek",
+      "price": 212,
+      "title": "Flight deals from Samarkand to Bishkek",
+      "airline": "Uzbekistan Airways"
     },
     {
       "route_label": "Tashkent -> Lahore",
-      "price": 108,
+      "price": 151,
       "title": "Flight deals from Tashkent to Lahore",
-      "airline": "Centrum Air"
+      "airline": "Uzbekistan Airways"
+    },
+    {
+      "route_label": "Tashkent -> Hamburg",
+      "price": 139,
+      "title": "Flight deals from Tashkent to Hamburg",
+      "airline": "Uzbekistan Airways"
     },
     {
       "route_label": "Tashkent -> Yerevan",
-      "price": 113,
+      "price": 120,
       "title": "Flight deals from Tashkent to Yerevan",
       "airline": "FLYONE Armenia"
     },
     {
-      "route_label": "Tashkent -> Jinjiang",
-      "price": 305,
-      "title": "Flight deals from Tashkent to Jinjiang",
-      "airline": "China Southern Airlines"
-    },
-    {
-      "route_label": "Tashkent -> Larnaca",
-      "price": 176,
-      "title": "Flight deals from Tashkent to Larnaca",
-      "airline": "FLYONE Armenia"
-    },
-    {
-      "route_label": "Tashkent -> Dharamsala",
-      "price": 253,
-      "title": "Flight deals from Tashkent to Dharamsala",
-      "airline": "Centrum Air"
-    },
-    {
-      "route_label": "Tashkent -> Hyderabad",
-      "price": 250,
-      "title": "Flight deals from Tashkent to Hyderabad",
+      "route_label": "Tashkent -> New Delhi",
+      "price": 115,
+      "title": "Flight deals from Tashkent to New Delhi",
       "airline": "Uzbekistan Airways"
     },
     {
-      "route_label": "Tashkent -> Kuching",
-      "price": 377,
-      "title": "Flight deals from Tashkent to Kuching",
-      "airline": "Batik Air Malaysia"
+      "route_label": "Tashkent -> Rome",
+      "price": 165,
+      "title": "Flight deals from Tashkent to Rome",
+      "airline": "Qatar Airways"
     },
     {
-      "route_label": "Tashkent -> New Delhi",
-      "price": 155,
-      "title": "Flight deals from Tashkent to New Delhi",
-      "airline": "Centrum Air"
+      "route_label": "Tashkent -> Mumbai",
+      "price": 185,
+      "title": "Flight deals from Tashkent to Mumbai",
+      "airline": "Uzbekistan Airways"
     },
     {
-      "route_label": "Tashkent -> Thiruvananthapuram",
-      "price": 297,
-      "title": "Flight deals from Tashkent to Thiruvananthapuram",
+      "route_label": "Tashkent -> Munich",
+      "price": 151,
+      "title": "Flight deals from Tashkent to Munich",
+      "airline": "Royal Jordanian"
+    },
+    {
+      "route_label": "Tashkent -> Turin",
+      "price": 309,
+      "title": "Flight deals from Tashkent to Turin",
+      "airline": "Uzbekistan Airways"
+    },
+    {
+      "route_label": "Tashkent -> Aktobe",
+      "price": 117,
+      "title": "Flight deals from Tashkent to Aktobe",
       "airline": "Centrum Air"
     }
   ]
