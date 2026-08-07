@@ -59,6 +59,7 @@ ROUTES = [
 ]
 
 CURRENCY = "usd"
+PARTNER_MARKER = "747646"
 HISTORY_FILE = "price_history.csv"
 DEALS_OUTPUT = "todays_deals.json"
 TELEGRAM_OUTPUT = "telegram_post.txt"
@@ -96,9 +97,16 @@ def fetch_price(origin, destination, token):
     data = payload.get("data", [])
     if not data:
         print(f"  [!] No price data returned for {origin}->{destination}")
-        return None
+        return None, None
 
-    return data[0].get("price")
+    ticket = data[0]
+    price = ticket.get("price")
+    link = ticket.get("link")
+    deep_link = None
+    if link:
+        separator = "&" if "?" in link else "?"
+        deep_link = f"https://www.aviasales.com{link}{separator}marker={PARTNER_MARKER}"
+    return price, deep_link
 
 
 def fetch_special_offers(origin, token):
@@ -126,7 +134,7 @@ def collect_current_prices():
     rows = []
     now = datetime.now(timezone.utc).isoformat()
     for origin, destination, label in ROUTES:
-        price = fetch_price(origin, destination, API_TOKEN)
+        price, link = fetch_price(origin, destination, API_TOKEN)
         if price is not None:
             print(f"  {label}: ${price}")
             rows.append({
@@ -135,6 +143,7 @@ def collect_current_prices():
                 "destination": destination,
                 "route_label": label,
                 "price": price,
+                "link": link,
             })
     return pd.DataFrame(rows)
 
@@ -148,11 +157,17 @@ def collect_special_offers():
     for origin in origins:
         results = fetch_special_offers(origin, API_TOKEN)
         for r in results:
+            link = r.get("link")
+            deep_link = None
+            if link:
+                separator = "&" if "?" in link else "?"
+                deep_link = f"https://www.aviasales.com{link}{separator}marker={PARTNER_MARKER}"
             offers.append({
                 "route_label": f"{r.get('origin_name', origin)} -> {r.get('destination_name', r.get('destination'))}",
                 "price": r.get("price"),
                 "title": r.get("title"),
                 "airline": r.get("airline_title"),
+                "link": deep_link,
             })
         if results:
             print(f"  {origin}: {len(results)} special offer(s) found")
@@ -207,6 +222,7 @@ def score_deals(history: pd.DataFrame) -> pd.DataFrame:
             method = "simple_threshold_not_enough_history"
 
         pct_below_avg = round((1 - latest_price / avg_price) * 100, 1) if avg_price else 0
+        latest_link = group.iloc[-1].get("link") if "link" in group.columns else None
 
         results.append({
             "route_label": route_label,
@@ -216,6 +232,7 @@ def score_deals(history: pd.DataFrame) -> pd.DataFrame:
             "is_deal": bool(is_deal),
             "detection_method": method,
             "data_points_so_far": len(group),
+            "link": latest_link,
         })
 
     df = pd.DataFrame(results)
