@@ -1,19 +1,18 @@
 FLEXIBLE DEALS - TODAY'S PICKS
 
 From our own price tracking:
-  Tashkent -> London: $172 (14.0% below its usual average)
-  Tashkent -> Venice: $174 (9.7% below its usual average)
+  Tashkent -> Venice: $174 (9.4% below its usual average)
 
 Flagged by Travelpayouts as abnormally low right now:
-  Samarkand -> Almaty: $119 (FlyArystan)
-  Samarkand -> Abu Dhabi: $250 (Air Arabia Abu Dhabi)
-  Samarkand -> Guangzhou: $337 (Centrum Air)
-  Samarkand -> Baku: $149 (Azerbaijan Airlines)
-  Samarkand -> Bukhara: $140 (Silk Avia)
-  Samarkand -> Izmir: $209 (SunExpress)
-  Samarkand -> Dubai: $330 (Flydubai)
-  Samarkand -> Tbilisi: $301 (Azimuth)
-  Samarkand -> London: $256 (SunExpress)
+  Samarkand -> Fergana: $63 (Uzbekistan Airways)
+  Samarkand -> New Delhi: $166 (Uzbekistan Airways)
+  Samarkand -> Andijan: $112 (Centrum Air)
+  Samarkand -> Baku: $150 (Azerbaijan Airlines)
+  Samarkand -> Tamchy: $123 (Centrum Air)
+  Samarkand -> Bukhara: $132 (Silk Avia)
+  Samarkand -> Dubai: $226 (Centrum Air)
+  Samarkand -> Izmir: $208 (SunExpress)
+  Samarkand -> Abu Dhabi: $238 (Air Arabia Abu Dhabi)
   Tashkent -> Bukhara: $58 (Uzbekistan Airways)
 
 Book via: https://aviasales.tpm.lv/3zOHKKXL
