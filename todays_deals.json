@@ -1,212 +1,212 @@
 {
   "tracked_deals": [
     {
-      "route_label": "Tashkent -> London",
-      "latest_price": 173,
-      "average_price": 198.52,
-      "pct_below_average": 12.9,
-      "is_deal": true,
-      "detection_method": "isolation_forest",
-      "data_points_so_far": 40,
-      "link": "https://www.aviasales.com/search/TAS0711LON1?t=VF17940516001794138300001745TASBSZSAWSTN_72fe0edc351c466b97370eae2cb2fec0_14331&search_date=13082026&expected_price_uuid=019ff8cd-cf43-8030-6ce2-2c6c9ad12377&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=9VSbLNsSMUgYj7wOgdKHfQ&expected_price_source=share&expected_price_currency=usd&expected_price=173&marker=747646"
-    },
-    {
       "route_label": "Tashkent -> Venice",
       "latest_price": 174,
-      "average_price": 191.68,
-      "pct_below_average": 9.2,
+      "average_price": 191.24,
+      "pct_below_average": 9.0,
       "is_deal": false,
       "detection_method": "isolation_forest",
-      "data_points_so_far": 40,
+      "data_points_so_far": 41,
       "link": "https://www.aviasales.com/search/TAS0411VCE1?t=W617937948001793861400001350TASEVNVCE_e83c744711186fae19d87424dd485fc4_14208&search_date=09082026&expected_price_uuid=019fe63d-6d9d-8030-62ed-1126231471b9&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=vvTmVyuTc5Tuo7OkrweryA&expected_price_source=share&expected_price_currency=usd&expected_price=174&marker=747646"
     },
     {
-      "route_label": "Tashkent -> Barcelona",
-      "latest_price": 208,
-      "average_price": 219.98,
-      "pct_below_average": 5.4,
+      "route_label": "Tashkent -> London",
+      "latest_price": 183,
+      "average_price": 198.15,
+      "pct_below_average": 7.6,
+      "is_deal": true,
+      "detection_method": "isolation_forest",
+      "data_points_so_far": 41,
+      "link": "https://www.aviasales.com/search/TAS0711LON1?t=VF17940516001794138300001745TASBSZSAWSTN_72fe0edc351c466b97370eae2cb2fec0_15197&search_date=14082026&expected_price_uuid=019fff0b-7b97-8040-6089-50d43c72f1f7&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=9VSbLNsSMUgYj7wOgdKHfQ&expected_price_source=share&expected_price_currency=usd&expected_price=183&marker=747646"
+    },
+    {
+      "route_label": "Tashkent -> Istanbul",
+      "latest_price": 161,
+      "average_price": 160.71,
+      "pct_below_average": -0.2,
       "is_deal": false,
       "detection_method": "isolation_forest",
-      "data_points_so_far": 40,
-      "link": "https://www.aviasales.com/search/TAS2911BCN1?t=5F17959398001796048400002050TASRMOBCN_cb2f19dfcba3e81264e88f041a30bf59_17273&search_date=07082026&expected_price_uuid=019fdaea-81a5-8051-20c8-e9745c443421&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=fRNuV7V7q7nlzViCSGNdnA&expected_price_source=share&expected_price_currency=usd&expected_price=208&marker=747646"
+      "data_points_so_far": 41,
+      "link": "https://www.aviasales.com/search/TAS2603IST1?t=C618060864001806099600000340TASIST_472a155b7e0fe56a4ec482af1489b54e_13489&search_date=13082026&expected_price_uuid=019ffa81-8f0a-8050-649d-5b4e7a850af2&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=1FoTmk0NzIAtNncDebXxVQ&expected_price_source=share&expected_price_currency=usd&expected_price=161&marker=747646"
     },
     {
       "route_label": "Samarkand -> Moscow",
       "latest_price": 77,
-      "average_price": 75.9,
+      "average_price": 75.93,
       "pct_below_average": -1.4,
       "is_deal": false,
       "detection_method": "isolation_forest",
-      "data_points_so_far": 40,
+      "data_points_so_far": 41,
       "link": "https://www.aviasales.com/search/SKD1707MOW1?t=HH18158244001815855600000640SKDTASVKO_9ef9ddad1986ab4249e540119eefca94_6351&search_date=10082026&expected_price_uuid=019feb6e-9c7b-8030-245b-bd12b7e7c5df&static_fare_key=TY%7CP1%7CH1%7CL1_1_23%7CCH0%7CR0%7CTBC1&itinerary_key=zQC9v6wjzk_zzn7pCmxbNA&expected_price_source=share&expected_price_currency=usd&expected_price=77&marker=747646"
     },
     {
-      "route_label": "Tashkent -> Istanbul",
-      "latest_price": 163,
-      "average_price": 160.7,
-      "pct_below_average": -1.4,
+      "route_label": "Tashkent -> Barcelona",
+      "latest_price": 224,
+      "average_price": 220.07,
+      "pct_below_average": -1.8,
       "is_deal": false,
       "detection_method": "isolation_forest",
-      "data_points_so_far": 40,
-      "link": "https://www.aviasales.com/search/TAS2710IST1?t=XQ17930754001793133600001090TASADBSAW_4d999e9121418bd916a17e87124432ef_13479&search_date=13082026&expected_price_uuid=019ff93c-8272-8030-6c78-83b28e87fcc8&static_fare_key=TY%7CP1%7CH0%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=qFif1HDhflsY6-vMGW1XjQ&expected_price_source=share&expected_price_currency=usd&expected_price=163&marker=747646"
+      "data_points_so_far": 41,
+      "link": "https://www.aviasales.com/search/TAS0612BCN1?t=5F17965446001796653200002050TASRMOBCN_40c21b84ef282914f2c62870690ebb28_18567&search_date=12082026&expected_price_uuid=019ff69c-8c1e-8030-e37a-35870e5e6fed&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=fRNuV7V7q7nlzViCSGNdnA&expected_price_source=share&expected_price_currency=usd&expected_price=224&marker=747646"
     },
     {
       "route_label": "Tashkent -> Bangkok",
       "latest_price": 220,
-      "average_price": 215.78,
-      "pct_below_average": -2.0,
+      "average_price": 215.88,
+      "pct_below_average": -1.9,
       "is_deal": false,
       "detection_method": "isolation_forest",
-      "data_points_so_far": 40,
-      "link": "https://www.aviasales.com/search/TAS2608BKK1?t=HY17877504001787779800000370TASBKK_765ddf33e091fa41c87ae7f2d496081d_18202&search_date=13082026&expected_price_uuid=019ff9f9-5215-8050-258f-4d30a9ac3200&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=ByocNfAsuyqSdBQOASamaQ&expected_price_source=share&expected_price_currency=usd&expected_price=220&marker=747646"
+      "data_points_so_far": 41,
+      "link": "https://www.aviasales.com/search/TAS3108BKK1?t=HY17882172001788246600000370TASBKK_60b87b56f1dfd02efd0fc86d6d13d886_18298&search_date=14082026&expected_price_uuid=019ffe81-2783-8030-6507-a0592f114336&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=t4irZVdZeLbFaojYDTsNow&expected_price_source=share&expected_price_currency=usd&expected_price=220&marker=747646"
     },
     {
       "route_label": "Tashkent -> Seoul",
       "latest_price": 235,
-      "average_price": 229.22,
+      "average_price": 229.37,
       "pct_below_average": -2.5,
       "is_deal": false,
       "detection_method": "isolation_forest",
-      "data_points_so_far": 40,
+      "data_points_so_far": 41,
       "link": "https://www.aviasales.com/search/TAS0303ICN1?t=HH18041088001804147200000400TASICN_fd34750a401f74a2f7d97cdcfbb8bddb_19483&search_date=12082026&expected_price_uuid=019ff557-7032-8051-2e58-3ad756ae9d5a&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=VR27uDKawvF2Hpj8OaLKzQ&destination_airports=0&expected_price_source=share&expected_price_currency=usd&expected_price=235&marker=747646"
     },
     {
       "route_label": "Tashkent -> Dubai",
       "latest_price": 142,
-      "average_price": 136.18,
-      "pct_below_average": -4.3,
+      "average_price": 136.32,
+      "pct_below_average": -4.2,
       "is_deal": false,
       "detection_method": "isolation_forest",
-      "data_points_so_far": 39,
-      "link": "https://www.aviasales.com/search/TAS2008DXB1?t=HY17872119001787223600000255TASDXB_6aceebc18258fe3b6fa167fed994c803_11749&search_date=13082026&expected_price_uuid=019ff9d9-9689-8050-edfb-795dca8c0ec1&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=8H7vXuBcwL_rbrL3zv8muA&expected_price_source=share&expected_price_currency=usd&expected_price=142&marker=747646"
+      "data_points_so_far": 40,
+      "link": "https://www.aviasales.com/search/TAS1808DXB1?t=HY17870391001787050800000255TASDXB_650ab47cb644d34882ab2f3e381792e6_11789&search_date=14082026&expected_price_uuid=019ffefa-0bef-8030-66e9-b794cc7ef8aa&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=8H7vXuBcwL_rbrL3zv8muA&expected_price_source=share&expected_price_currency=usd&expected_price=142&marker=747646"
     }
   ],
   "special_offers": [
-    {
-      "route_label": "Samarkand -> Tashkent",
-      "price": 93,
-      "title": "Flight deals from Samarkand to Tashkent",
-      "airline": "Qanot Sharq",
-      "link": "https://www.aviasales.com/search/SKD0605TAS1?t=HH18095868001809589800000050SKDTAS_ea0a4dc76147f3f569dcd2109ea5b0b4_7680&search_date=13082026&expected_price_uuid=019ff9c1-5a86-8050-67d1-0979fa326b47&static_fare_key=TY%7CP1%7CH1%7CL1_1_23%7CCH0%7CR0%7CTBC1&itinerary_key=Ky7wVYgAyyh0Vz9LXv91Ew&expected_price_source=share&expected_price_currency=usd&expected_price=93&marker=747646"
-    },
     {
       "route_label": "Samarkand -> Fergana",
       "price": 62,
       "title": "Flight deals from Samarkand to Fergana",
       "airline": "Uzbekistan Airways",
-      "link": "https://www.aviasales.com/search/SKD1908FEG1?t=HY17871432001787157000000230SKDTASFEG_86e59b53f62775ca3dcdd6ce9e7c90a2_5134&search_date=13082026&expected_price_uuid=019ff9ee-ad04-8030-e2b1-ea6d9ab652b5&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=hQvT6k_SCWQ0gQuyP5liXA&expected_price_source=share&expected_price_currency=usd&expected_price=62&marker=747646"
+      "link": "https://www.aviasales.com/search/SKD1908FEG1?t=HY17871432001787157000000230SKDTASFEG_86e59b53f62775ca3dcdd6ce9e7c90a2_5188&search_date=14082026&expected_price_uuid=019ffee8-1f18-8030-ef37-e812123b0eee&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=hQvT6k_SCWQ0gQuyP5liXA&expected_price_source=share&expected_price_currency=usd&expected_price=62&marker=747646"
     },
     {
       "route_label": "Samarkand -> Almaty",
-      "price": 120,
+      "price": 121,
       "title": "Flight deals from Samarkand to Almaty",
       "airline": "FlyArystan",
-      "link": "https://www.aviasales.com/search/SKD0109ALA1?t=FS17882586001788265200000110SKDALA_59257e60b42038ea12ec3b947b217be8_9934&search_date=13082026&expected_price_uuid=019ff974-56a3-8030-64de-fe42f3c1b1b0&static_fare_key=TY%7CP0%7CH0%7CL1_1_20%7CCH0%7CR0%7CTBC1&itinerary_key=OmRfyOkAeQyXSBkE3PIxFQ&expected_price_source=share&expected_price_currency=usd&expected_price=120&marker=747646"
+      "link": "https://www.aviasales.com/search/SKD0809ALA1?t=FS17888634001788870000000110SKDALA_2147c4d647cefe628c3cbcb70f84f1e1_10056&search_date=14082026&expected_price_uuid=019fff07-8670-8030-2075-d60a1ad5acf5&static_fare_key=TY%7CP0%7CH1%7CL1_1_20%7CCH1%7CR0%7CTBC1&itinerary_key=OmRfyOkAeQyXSBkE3PIxFQ&expected_price_source=share&expected_price_currency=usd&expected_price=121&marker=747646"
     },
     {
-      "route_label": "Samarkand -> Guangzhou",
-      "price": 344,
-      "title": "Flight deals from Samarkand to Guangzhou",
+      "route_label": "Samarkand -> Bishkek",
+      "price": 164,
+      "title": "Flight deals from Samarkand to Bishkek",
       "airline": "Centrum Air",
-      "link": "https://www.aviasales.com/search/SKD2309CAN1?t=C617901672001790219700000695SKDTASCAN_ca0363d5cf65af3b1cf29f61230722c4_28497&search_date=13082026&expected_price_uuid=019ff8da-e8f3-8030-eb52-c89c6900b430&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=RuPj4tifFiVLJBoLYYbQvw&expected_price_source=share&expected_price_currency=usd&expected_price=344&marker=747646"
+      "link": "https://www.aviasales.com/search/SKD1009BSZ1?t=C617890203001789046100000370SKDTASBSZ_b27f03fb1f004cb319a772c4405a6934_13659&search_date=14082026&expected_price_uuid=019ffefb-658d-8030-2a1b-187d20d00663&static_fare_key=TY%7CP1%7CH1%7CL1_1_23%7CCH1%7CR1%7CTBC1&itinerary_key=YqZ7GpopnWwWwlmGHJ29sg&expected_price_source=share&expected_price_currency=usd&expected_price=164&marker=747646"
+    },
+    {
+      "route_label": "Samarkand -> Urgench",
+      "price": 192,
+      "title": "Flight deals from Samarkand to Urgench",
+      "airline": "Uzbekistan Airways",
+      "link": "https://www.aviasales.com/search/SKD1708UGC1?t=HY17869458001786962600000280SKDTASUGC_65ba2ce45ac9421801be921972f5c230_15957&search_date=14082026&expected_price_uuid=019ffecd-1770-8030-2002-96268bb6ccbe&static_fare_key=TY%7CP1%7CH1%7CL1_1_23%7CCH0%7CR0%7CTBC1&itinerary_key=wmqutbONqjPbVNVcn3cAEg&expected_price_source=share&expected_price_currency=usd&expected_price=192&marker=747646"
     },
     {
       "route_label": "Samarkand -> Baku",
-      "price": 148,
+      "price": 149,
       "title": "Flight deals from Samarkand to Baku",
       "airline": "Azerbaijan Airlines",
-      "link": "https://www.aviasales.com/search/SKD2308BAK1?t=J217874537001787459400000155SKDGYD_81a1096d76dcd62138d4a5f5c7956f61_12279&search_date=13082026&expected_price_uuid=019ff949-0c29-8030-a5bb-587874c4f2cf&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=EfT9e2D20G8GIKF8Kf6aew&expected_price_source=share&expected_price_currency=usd&expected_price=148&marker=747646"
+      "link": "https://www.aviasales.com/search/SKD2308BAK1?t=J217874537001787459400000155SKDGYD_81a1096d76dcd62138d4a5f5c7956f61_12378&search_date=14082026&expected_price_uuid=019ffec6-d04f-8030-a7db-1f45a55c49e2&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=EfT9e2D20G8GIKF8Kf6aew&expected_price_source=share&expected_price_currency=usd&expected_price=149&marker=747646"
     },
     {
       "route_label": "Samarkand -> Tamchy",
-      "price": 127,
+      "price": 120,
       "title": "Flight deals from Samarkand to Tamchy",
       "airline": "Centrum Air",
-      "link": "https://www.aviasales.com/search/SKD1708IKU1?t=C617869458001787034000001410SKDTASIKU_a7daf2c241801096091228d094a08938_10529&search_date=13082026&expected_price_uuid=019ff8e8-5c47-8030-6ab3-067e5d7ca5b8&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=vjG1BLP9kYKDS9az0akNPQ&expected_price_source=share&expected_price_currency=usd&expected_price=127&marker=747646"
+      "link": "https://www.aviasales.com/search/SKD1708IKU1?t=C617869458001787034000001410SKDTASIKU_a7daf2c241801096091228d094a08938_9998&search_date=14082026&expected_price_uuid=019ffee5-62a4-8030-6c6e-28847fa24170&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=vjG1BLP9kYKDS9az0akNPQ&expected_price_source=share&expected_price_currency=usd&expected_price=120&marker=747646"
     },
     {
-      "route_label": "Samarkand -> Osh",
-      "price": 114,
-      "title": "Flight deals from Samarkand to Osh",
-      "airline": "Centrum Air",
-      "link": "https://www.aviasales.com/search/SKD0209OSS1?t=C617883528001788389400000550SKDTASOSS_3db4c75258307434b2ace09ac73e8eed_9427&search_date=13082026&expected_price_uuid=019ff9b2-7aae-8030-a9f1-f7e5309084a8&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=lpyyrcNXVLryD-pwgcmR8w&expected_price_source=share&expected_price_currency=usd&expected_price=114&marker=747646"
+      "route_label": "Samarkand -> Tbilisi",
+      "price": 290,
+      "title": "Flight deals from Samarkand to Tbilisi",
+      "airline": "Azimuth",
+      "link": "https://www.aviasales.com/search/SKD2708TBS1?t=A417878005001787820900000400SKDAERTBS_1db99b9d69bc7ae1aecb3688d41d3cf0_24091&search_date=14082026&expected_price_uuid=019ffeb3-d8df-8030-29f4-fe6092448e7e&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=lmxSl79gj4ILyM8SMHWWZw&expected_price_source=share&expected_price_currency=usd&expected_price=290&marker=747646"
     },
     {
-      "route_label": "Samarkand -> Dubai",
-      "price": 322,
-      "title": "Flight deals from Samarkand to Dubai",
-      "airline": "Flydubai",
-      "link": "https://www.aviasales.com/search/SKD0509DXB1?t=FZ17885829001788591600000205SKDDXB_2b10d876326b86371884f96466581245_26695&search_date=13082026&expected_price_uuid=019ff8e4-c3d6-8030-2c23-b47e3f39c956&static_fare_key=TY%7CP0%7CH1%7CL1_1_20%7CCH0%7CR0%7CTBC1&itinerary_key=sjfwe6n8InXwGdtIItIXCA&expected_price_source=share&expected_price_currency=usd&expected_price=322&marker=747646"
+      "route_label": "Samarkand -> Sharjah",
+      "price": 309,
+      "title": "Flight deals from Samarkand to Sharjah",
+      "airline": "Air Arabia",
+      "link": "https://www.aviasales.com/search/SKD1608SHJ1?t=G917868450001786863000000360SKDTASSHJ_287094c04ca61a0341c4dd5f6411379c_25672&search_date=14082026&expected_price_uuid=019ffe73-0f60-8030-2244-f88521fb3d00&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=0k615UpjRGKT3BL9-bag0Q&expected_price_source=share&expected_price_currency=usd&expected_price=309&marker=747646"
     },
     {
-      "route_label": "Samarkand -> Namangan",
-      "price": 49,
-      "title": "Flight deals from Samarkand to Namangan",
-      "airline": "Uzbekistan Airways",
-      "link": "https://www.aviasales.com/search/SKD1508NMA1?t=HY17868285001786868700000670SKDTASNMA_853e2fb59e39e154f53a52724c0e70f1_4088&search_date=13082026&expected_price_uuid=019ff9bd-0450-8030-21f2-fd2901042484&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=ibV9HOlenPJYT03OmX0zxw&expected_price_source=share&expected_price_currency=usd&expected_price=49&marker=747646"
+      "route_label": "Samarkand -> Izmir",
+      "price": 232,
+      "title": "Flight deals from Samarkand to Izmir",
+      "airline": "SunExpress",
+      "link": "https://www.aviasales.com/search/SKD2008IZM1?t=XQ17872008001787213100000325SKDADB_d168efcfb5fdf86f740b9c36881d1503_19287&search_date=14082026&expected_price_uuid=019ffeff-9420-8030-e5fc-964cf7ef35de&static_fare_key=TY%7CP1%7CH1%7CL1_1_20%7CCH0%7CR0%7CTBC1&itinerary_key=glhOcdkQl_aNW8pQ3pGN5g&expected_price_source=share&expected_price_currency=usd&expected_price=232&marker=747646"
     },
     {
       "route_label": "Tashkent -> Bukhara",
       "price": 58,
       "title": "Flight deals from Tashkent to Bukhara",
       "airline": "Uzbekistan Airways",
-      "link": "https://www.aviasales.com/search/TAS0301BHK1?t=HY17989452001798948800000060TASBHK_b40b18a9facdd18973ac4645c46ad944_4778&search_date=13082026&expected_price_uuid=019ff929-b6b8-8030-2bf2-e4ed346eefd9&static_fare_key=TY%7CP0%7CH1%7CL1_1_23%7CCH1%7CR1%7CTBC1&itinerary_key=-IMJepK1ljtocZAk6snBaA&expected_price_source=share&expected_price_currency=usd&expected_price=58&marker=747646"
+      "link": "https://www.aviasales.com/search/TAS0301BHK1?t=HY17989452001798948800000060TASBHK_b40b18a9facdd18973ac4645c46ad944_4800&search_date=14082026&expected_price_uuid=019ffef0-efb5-8030-a2e8-2be1a9c3cd97&static_fare_key=TY%7CP0%7CH1%7CL1_1_23%7CCH1%7CR1%7CTBC1&itinerary_key=-IMJepK1ljtocZAk6snBaA&expected_price_source=share&expected_price_currency=usd&expected_price=58&marker=747646"
     },
     {
       "route_label": "Tashkent -> Lahore",
-      "price": 152,
+      "price": 153,
       "title": "Flight deals from Tashkent to Lahore",
       "airline": "Uzbekistan Airways",
-      "link": "https://www.aviasales.com/search/TAS2912LHE1?t=HY17985231001798531500000140TASLHE_37ad4273a6fd9e3a83e1622bdedde6f6_12610&search_date=13082026&expected_price_uuid=019ff92e-ae44-8030-a486-2bb10a3d8a82&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=LeRwuHTg22WOc1474NAirg&expected_price_source=share&expected_price_currency=usd&expected_price=152&marker=747646"
+      "link": "https://www.aviasales.com/search/TAS2212LHE1?t=HY17979183001797926700000140TASLHE_9057ad6e8b91006d0cbe979ebb72fef2_12676&search_date=14082026&expected_price_uuid=019ffddb-ccbf-8030-a8d5-7a862d080924&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=LeRwuHTg22WOc1474NAirg&expected_price_source=share&expected_price_currency=usd&expected_price=153&marker=747646"
     },
     {
       "route_label": "Tashkent -> Yerevan",
       "price": 93,
       "title": "Flight deals from Tashkent to Yerevan",
       "airline": "FLYONE Armenia",
-      "link": "https://www.aviasales.com/search/TAS1908EVN1?t=3F17871420001787151000000210TASEVN_8b174f8b7937bc97223d1fd1fa95ad03_7700&search_date=13082026&expected_price_uuid=019ff9e8-faf4-8030-6a24-305eff7aa05c&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=JiWuB_aFxZO9da55cJmoAA&expected_price_source=share&expected_price_currency=usd&expected_price=93&marker=747646"
-    },
-    {
-      "route_label": "Tashkent -> Juzhou",
-      "price": 224,
-      "title": "Flight deals from Tashkent to Juzhou",
-      "airline": "China Southern Airlines",
-      "link": "https://www.aviasales.com/search/TAS0809JUZ1?t=CZ17889030001788954600000680TASCANJUZ_876a6128e46f16b0a84c54809354ebf7_18558&search_date=13082026&expected_price_uuid=019ff959-3697-8050-a7d9-baacb36b7973&static_fare_key=TY%7CP1%7CH1%7CL1_1_23%7CCH1%7CR1%7CTBC1&itinerary_key=MJ0nfT5d4d6W1Y4qUeWaDQ&expected_price_source=share&expected_price_currency=usd&expected_price=224&marker=747646"
+      "link": "https://www.aviasales.com/search/TAS1908EVN1?t=3F17871420001787151000000210TASEVN_8b174f8b7937bc97223d1fd1fa95ad03_7750&search_date=14082026&expected_price_uuid=019fff11-c8f4-8051-2a6e-d978fac2d112&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=JiWuB_aFxZO9da55cJmoAA&expected_price_source=share&expected_price_currency=usd&expected_price=93&marker=747646"
     },
     {
       "route_label": "Tashkent -> New Delhi",
       "price": 97,
       "title": "Flight deals from Tashkent to New Delhi",
       "airline": "Centrum Air",
-      "link": "https://www.aviasales.com/search/TAS1508DEL1?t=C617867760001786791000000220TASDEL_63f3e9203e848296e41578e36af61f75_8075&search_date=13082026&expected_price_uuid=019ff9ee-0f54-8030-20f5-e80d5409490d&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=qXSBHdpyMWTA_BepvmABXA&expected_price_source=share&expected_price_currency=usd&expected_price=97&marker=747646"
+      "link": "https://www.aviasales.com/search/TAS1508DEL1?t=C617867760001786791000000220TASDEL_63f3e9203e848296e41578e36af61f75_8096&search_date=14082026&expected_price_uuid=019fff0c-105f-8030-2f89-cec34cadc0c5&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=qXSBHdpyMWTA_BepvmABXA&expected_price_source=share&expected_price_currency=usd&expected_price=97&marker=747646"
+    },
+    {
+      "route_label": "Tashkent -> Ahmedabad",
+      "price": 243,
+      "title": "Flight deals from Tashkent to Ahmedabad",
+      "airline": "Centrum Air",
+      "link": "https://www.aviasales.com/search/TAS2808AMD1?t=C617878992001787934000000550TASDELAMD_af13457ebbe5af3783cb217669f4f6bd_20180&search_date=14082026&expected_price_uuid=019ffe9a-8cc8-8030-66f1-ef58d13564ac&static_fare_key=TY%7CP1%7CH1%7CL1_1_15%7CCH0%7CR0%7CTBC1&itinerary_key=MWsVA7VTRSYAZ4QcabkeCw&expected_price_source=share&expected_price_currency=usd&expected_price=243&marker=747646"
+    },
+    {
+      "route_label": "Tashkent -> Larnaca",
+      "price": 160,
+      "title": "Flight deals from Tashkent to Larnaca",
+      "airline": "FLYONE Armenia",
+      "link": "https://www.aviasales.com/search/TAS1908LCA1?t=3F17871420001787161200000440TASEVNLCA_c5933f286d9028aa381c3fb9bd8968eb_13262&search_date=14082026&expected_price_uuid=019ffeaf-0eb8-8030-e09f-37e38faf60f0&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=x2o6_gx8B8KOhXadXIa2Ww&expected_price_source=share&expected_price_currency=usd&expected_price=160&marker=747646"
+    },
+    {
+      "route_label": "Tashkent -> Chisinau",
+      "price": 214,
+      "title": "Flight deals from Tashkent to Chisinau",
+      "airline": "Fly One",
+      "link": "https://www.aviasales.com/search/TAS2910RMO1?t=5F17932614001793271000000340TASRMO_173b08501eecba61a4676b3ce0748fa8_17744&search_date=14082026&expected_price_uuid=019ffee3-7131-8030-27b1-d684407debcf&static_fare_key=TY%7CP1%7CH1%7CL1_1_25%7CCH1%7CR1%7CTBC1&itinerary_key=AIGUddk6zHxgi3GUUMjysg&expected_price_source=share&expected_price_currency=usd&expected_price=214&marker=747646"
     },
     {
       "route_label": "Tashkent -> Mumbai",
       "price": 160,
       "title": "Flight deals from Tashkent to Mumbai",
       "airline": "Uzbekistan Airways",
-      "link": "https://www.aviasales.com/search/TAS1308BOM1?t=HY17866632001786680600000260TASBOM_36e341eccb08f5addbd901a116d069c8_13258&search_date=13082026&expected_price_uuid=019ff95e-9f5d-8040-abee-fc747325671d&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=aqzwb4jsJ3wd70xY0tc8SA&expected_price_source=share&expected_price_currency=usd&expected_price=160&marker=747646"
+      "link": "https://www.aviasales.com/search/TAS1708BOM1?t=HY17870088001787026200000260TASBOM_0676d17ddce2439518e084262971b7c3_13323&search_date=14082026&expected_price_uuid=019ffea6-757b-8030-6477-849a9154322e&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=aqzwb4jsJ3wd70xY0tc8SA&expected_price_source=share&expected_price_currency=usd&expected_price=160&marker=747646"
     },
     {
-      "route_label": "Tashkent -> Aktobe",
-      "price": 123,
-      "title": "Flight deals from Tashkent to Aktobe",
+      "route_label": "Tashkent -> Tamchy",
+      "price": 74,
+      "title": "Flight deals from Tashkent to Tamchy",
       "airline": "Centrum Air",
-      "link": "https://www.aviasales.com/search/TAS1608AKX1?t=C617869164001786924860000141TASAKX_e75393f83c1a504c7a2fcb8608db8119_10179&search_date=13082026&expected_price_uuid=019ff984-62dc-8030-6f95-3120a0e5cb9d&static_fare_key=TY%7CP0%7CH1%7CL1_1_23%7CCH0%7CR0%7CTBC1&itinerary_key=dHvoabaQ2QhN8M59Mt9Nyw&expected_price_source=share&expected_price_currency=usd&expected_price=123&marker=747646"
-    },
-    {
-      "route_label": "Tashkent -> Nha Trang",
-      "price": 225,
-      "title": "Flight deals from Tashkent to Nha Trang",
-      "airline": "Qanot Sharq",
-      "link": "https://www.aviasales.com/search/TAS1912NHA1?t=HH17976450001797678600000440TASCXR_e799ffd643ee25db1aa66aa20a2070cb_18686&search_date=13082026&expected_price_uuid=019ff94b-ec06-8050-e83c-331102d0275a&static_fare_key=TY%7CP1%7CH1%7CL1_1_23%7CCH0%7CR0%7CTBC1&itinerary_key=HySY-ZA2ecbeQw2ve0xsjw&expected_price_source=share&expected_price_currency=usd&expected_price=225&marker=747646"
-    },
-    {
-      "route_label": "Tashkent -> Khujand",
-      "price": 161,
-      "title": "Flight deals from Tashkent to Khujand",
-      "airline": "Centrum Air",
-      "link": "https://www.aviasales.com/search/TAS1609LBD1?t=C617895564001789582800000440TASDYULBD_1c42e801fffaee6f3f16b9fd177b0118_13354&search_date=13082026&expected_price_uuid=019ff9c3-9dc9-8030-635e-faabf3ddbe6d&static_fare_key=TY%7CP1%7CH1%7CL1_1_20%7CCH0%7CR0%7CTBC1&itinerary_key=ycE5Leffakkmm8h_20_qAA&expected_price_source=share&expected_price_currency=usd&expected_price=161&marker=747646"
+      "link": "https://www.aviasales.com/search/TAS1808IKU1?t=C617870256001787034000000080TASIKU_489394c9ebd2e9e7a54141671e54235a_6129&search_date=14082026&expected_price_uuid=019ffe81-485a-8050-a1b9-c8eafa8a07ac&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=rZkk6Goj89aW4Mna113htA&expected_price_source=share&expected_price_currency=usd&expected_price=74&marker=747646"
     }
   ]
 }
