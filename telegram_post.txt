@@ -1,18 +1,19 @@
 FLEXIBLE DEALS - TODAY'S PICKS
 
 From our own price tracking:
-  Tashkent -> Bangkok: $191 (11.2% below its usual average)
+  Tashkent -> Bangkok: $194 (9.6% below its usual average)
+  Tashkent -> Barcelona: $213 (3.4% below its usual average)
 
 Flagged by Travelpayouts as abnormally low right now:
-  Samarkand -> New Delhi: $113 (Centrum Air)
+  Samarkand -> New Delhi: $134 (Centrum Air)
+  Samarkand -> Almaty: $121 (FlyArystan)
+  Samarkand -> Dushanbe: $237 (Air Astana)
+  Samarkand -> Baku: $195 (Azerbaijan Airlines)
   Samarkand -> Andijan: $74 (Uzbekistan Airways)
-  Samarkand -> Abu Dhabi: $108 (Etihad Airways)
-  Samarkand -> Barcelona: $342 (SunExpress)
-  Samarkand -> Izmir: $210 (SunExpress)
-  Samarkand -> Baku: $196 (Azerbaijan Airlines)
-  Samarkand -> Namangan: $50 (Uzbekistan Airways)
-  Samarkand -> Minsk: $214 (Pobeda)
-  Samarkand -> Yerevan: $177 (Shirak Avia)
-  Tashkent -> Bukhara: $59 (Uzbekistan Airways)
+  Samarkand -> Dubai: $424 (Flydubai)
+  Samarkand -> Izmir: $236 (SunExpress)
+  Samarkand -> Tashkent: $221 (FlyArystan)
+  Samarkand -> Antalya: $291 (Azerbaijan Airlines)
+  Tashkent -> Bukhara: $60 (Uzbekistan Airways)
 
 Book via: https://aviasales.tpm.lv/3zOHKKXL
